@@ -35,7 +35,7 @@ export default (props) => {
       options={options}
       series={props.dataList}
       height={window.innerHeight - 50}
-      width={window.innerWidth - 50}
+      width={window.innerWidth - 100}
     />
   );
 };
